@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://thingplug.github.io/"/>
-  <updated>2015-11-22T15:45:43.387Z</updated>
+  <updated>2015-12-09T09:23:12.610Z</updated>
   <id>http://thingplug.github.io/</id>
   
   <author>
@@ -13,6 +13,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[샘플북! ThingPlug로 시작하는 IoT 서비스 개발]]></title>
+    <link href="http://thingplug.github.io/%EC%83%98%ED%94%8C%EB%B6%81-ThingPlug%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-IoT-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C/"/>
+    <id>http://thingplug.github.io/샘플북-ThingPlug로-시작하는-IoT-서비스-개발/</id>
+    <published>2015-12-09T09:22:08.000Z</published>
+    <updated>2015-12-09T09:23:12.610Z</updated>
+    <content type="html"><![CDATA[<p>[ThingPlug로 시작하는 IoT 서비스 개발] 도서의 일부를 샘플로 공개합니다.<br>ThingPlug란 무엇인지, IoT 서비스를 위해 어떤 기능들을 지원하는지와 IoT를 위한 국제 표준 oneM2M에 대한 내용이 담겨져 있는 공개 샘플이 ThingPlug에 관심있는 많은 분들에게 도움이 될 것이라 생각합니다.<br><a href="/img/ThingPlug로_시작하는_IoT_서비스_개발_Sample.pdf">다운로드</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>[ThingPlug로 시작하는 IoT 서비스 개발] 도서의 일부를 샘플로 공개합니다.<br>ThingPlug란 무엇인지, IoT 서비스를 위해 어떤 기능들을 지원하는지와 IoT를 위한 국제 표준 oneM2M에 대한 내용이 담겨져 있는 공개 샘플이]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[출간! ThingPlug로 시작하는 IoT 서비스 개발]]></title>
